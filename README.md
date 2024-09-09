@@ -23,3 +23,5 @@ Things you may want to cover:
 
 - ...
   "# finance-tracker"
+
+  This is a finance tracker app
