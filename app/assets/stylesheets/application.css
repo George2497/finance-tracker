@@ -13,3 +13,7 @@
  *= require_tree .
  *= require_self
  */
+/* @import 'bootsrap/dist/css/bootstrap'; */
+.navbar-brand {
+  font-size: 3rem !important;
+}
